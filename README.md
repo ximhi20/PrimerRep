@@ -24,4 +24,11 @@ Un sistema operativo es el conjunto de programas que gestiona los recursos del h
     - Tahoe.
 - Dispositivos móviles:
   - Android:
-  - iOS
+    - Gingerbread.
+    - KitKat.
+    - Oreo.
+    - 16\.
+  - iPhone:
+    - 7\.
+    - 12\.
+    - 15 pro.
