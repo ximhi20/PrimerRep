@@ -6,7 +6,15 @@ Un sistema operativo es el conjunto de programas que gestiona los recursos del h
 
 ## Ejemplos de Sistema Operativos
 
-- Windows
-- Linux
-- Mac
-- Android
+-PC:
+  - Windows
+  - GNU/Linux:
+    - Ubuntu.
+    - Mint.
+    - Arch.
+    - Debian.
+    - Fedora.
+  - Mac
+- Dispositivos móviles:
+  - Android
+  - iOS
